@@ -1,5 +1,3 @@
-Emerging Trends in AI for Decision Making and Strategy Development
-============================================================================================================================================
 
 As AI continues to evolve and advance, it presents exciting opportunities for improving decision-making processes and strategy development. In this chapter, we will explore emerging trends in AI for decision making and strategy development.
 

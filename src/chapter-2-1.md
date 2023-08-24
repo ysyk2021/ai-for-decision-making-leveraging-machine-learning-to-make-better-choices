@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=============================================================================================================
 
 AI-driven decision making requires tools and technologies that can collect, analyze, and interpret data. In this chapter, we will provide an overview of the available tools and technologies for AI-driven decision making.
 

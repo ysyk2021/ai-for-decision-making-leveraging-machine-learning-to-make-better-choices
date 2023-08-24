@@ -1,5 +1,3 @@
-Automated Decision-Making Assistance using AI
-========================================================================================================
 
 One of the key benefits of incorporating AI into decision-making processes is its ability to streamline decision-making and provide automated decision-making assistance. In this chapter, we will explore how organizations can leverage AI to automate decision-making workflows and support more efficient and effective decision making.
 

@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Driven Decision Making
-================================================================
 
 In recent years, the use of AI in decision making has become increasingly common across various industries. However, it is important to ensure that these AI-driven decisions are ethical and unbiased. This chapter will discuss the importance of ethical and unbiased decision-making practices and provide strategies for mitigating risks and ensuring compliance.
 

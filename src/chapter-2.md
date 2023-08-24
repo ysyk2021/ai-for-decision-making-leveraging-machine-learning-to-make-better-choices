@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Decision Making
-===============================================================
 
 AI-driven decision making requires tools and technologies that can collect, analyze, and interpret data. In this chapter, we will explore the available tools and technologies for AI-driven decision making and how to select the right ones for your needs.
 

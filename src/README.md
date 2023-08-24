@@ -1,4 +1,3 @@
-# Introduction
 
 In today's fast-paced and complex business environment, decision making is a critical skill for success. However, with so much data available, it can be overwhelming to try to manually analyze and make sense of it all. That's where AI comes in.
 

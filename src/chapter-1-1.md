@@ -1,5 +1,3 @@
-Understanding the Role of AI in Decision Making
-==================================================================================================
 
 Artificial intelligence (AI) is transforming the way organizations make decisions. By leveraging machine learning algorithms, natural language processing techniques, and other AI technologies, organizations can collect, analyze, and interpret data to inform decision-making. In this chapter, we will explore the role of AI in decision-making.
 

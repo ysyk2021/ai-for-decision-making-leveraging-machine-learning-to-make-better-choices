@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-==========================================================================================================
 
 As AI-driven decision making becomes more prevalent, it is essential to mitigate risks and ensure compliance with ethical and legal frameworks. In this chapter, we will explore how organizations can manage ethics and bias in AI-driven decision making by mitigating risks and ensuring compliance.
 

@@ -1,5 +1,3 @@
-Automated Risk Mitigation Recommendations using AI
-===============================================================================================================
 
 Effective risk assessment and management are critical for the success of any organization. Incorporating AI into risk assessment and management processes can provide automated risk mitigation recommendations that can improve overall risk management and optimize efficiency. In this chapter, we will explore how AI can enhance risk assessment and management processes.
 
